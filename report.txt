@@ -1,0 +1,34 @@
+════════════════════════════════════════════════════════════
+  LOST IN SPACE — PLANET REPORT
+  Player: Devin
+  Play Time: 76.4 seconds
+  Score: 15
+════════════════════════════════════════════════════════════
+
+Planet             Depth    Density    Fuel   Alien  Puzzle
+------------------------------------------------------------
+Neptune            15       7          YES    YES    no    
+Uranus             25       14         YES    YES    YES   
+Saturn             37       31         YES    no     YES   
+Titan              34       19         YES    YES    no    
+Jupiter            49       24         YES    YES    YES   
+Mars               29       15         YES    no     no    
+Moon               22       12         no     YES    YES   
+Pluto              33       18         YES    no     no    
+Fiesta             16       28         YES    YES    YES   
+Orblook            17       20         no     no     YES   
+Zarthon            31       12         YES    YES    YES   
+Athenia            25       22         no     YES    YES   
+Draconia           19       29         YES    YES    no    
+Blowhard           45       22         YES    no     YES   
+Enano              40       21         YES    YES    no    
+Niqueetun          42       19         no     YES    YES   
+Barometer          29       15         YES    no     no    
+Black Hole         50       1          no     YES    no    
+Andromida          43       20         YES    YES    YES   
+Phobos             10       4          YES    no     no    
+Mathilde           21       12         no     YES    YES   
+Luna               17       12         YES    no     no    
+Cupid              41       22         no     YES    YES   
+MakeMake           36       23         YES    no     no    
+Earth              42       21         no     no     no    
